@@ -1,0 +1,10 @@
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\bin\Debug\Semaforinho.exe.config
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\bin\Debug\Semaforinho.exe
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\bin\Debug\Semaforinho.pdb
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\obj\Debug\Semaforinho.csproj.AssemblyReference.cache
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\obj\Debug\Semaforinho.Form1.resources
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\obj\Debug\Semaforinho.Properties.Resources.resources
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\obj\Debug\Semaforinho.csproj.GenerateResource.cache
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\obj\Debug\Semaforinho.csproj.CoreCompileInputs.cache
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\obj\Debug\Semaforinho.exe
+C:\Users\giulia.agsjairo\source\repos\Semaforinho\Semaforinho\obj\Debug\Semaforinho.pdb
