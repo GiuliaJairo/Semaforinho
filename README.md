@@ -6,9 +6,9 @@ Este projeto é uma simulação visual de um semáforo utilizando **C# e Windows
 
 - Início e parada do ciclo do semáforo com um botão.
 - Ciclo de luzes com tempos definidos:
-  - 🔴 Vermelho: 7 segundos
-  - 🟢 Verde: 5 segundos
-  - 🟡 Amarelo: 2 segundos
+  - 🔴 Vermelho: 30 segundos
+  - 🟢 Verde: 30 segundos
+  - 🟡 Amarelo: 10 segundos
 - Alteração automática de imagem de acordo com o estado atual do semáforo.
 - Interface amigável e visual com `PictureBox`.
 
